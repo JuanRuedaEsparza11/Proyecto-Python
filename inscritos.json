@@ -1,0 +1,18 @@
+{
+    "000": {
+        "nombre": "Juan",
+        "apellido": "Rueda",
+        "telefono": "3156737339",
+        "direccion": "calle 3",
+        "acudiente": "Olga Ramirez",
+        "resultado pruebas": 79.0
+    },
+    "1099739701": {
+        "nombre": "Juan",
+        "apellido": "Esparza",
+        "telefono": "3175675424",
+        "direccion": "calle 3",
+        "acudiente": "Olga Ramirez",
+        "resultado pruebas": 60.0
+    }
+}
