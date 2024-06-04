@@ -22,6 +22,7 @@ def camper(datos_inscritos):
         camper["telefono"] = input("ponga telefono: ")
         camper["direccion"] = input("ponga direccion: ")
         camper["acudiente"] = input("ponga su acudiente: ")
+        camper["estado"] = "Inscrito"
         datos_inscritos[doc] = camper
         print("Has sido registrado exitosamente")
         
@@ -33,20 +34,7 @@ def camper(datos_inscritos):
             promedio = (nota1 + nota2) / 2
             datos_inscritos[doc]["resultado pruebas"] = promedio
         else: 
-            print("Chao perra")
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+            print("Chao perra")      
             
             
 guardar_datos(datos_inscritos, ruta_inscritos)

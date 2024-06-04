@@ -6,31 +6,27 @@
             "telefono": "3175675424",
             "direccion": "calle 3",
             "acudiente": "Olga Ramirez",
-            "resultado pruebas": 60.0
+            "resultado pruebas": 60.0,
+            "estado": ""
+        },
+        "1097770501": {
+            "nombre": "maluma ",
+            "apellido": "pritiboi",
+            "telefono": "3156756844",
+            "direccion": "soleri parque residencial",
+            "acudiente": "Penelope Lopez",
+            "resultado pruebas": 65.0,
+            "Estado": "estado"
+        },
+        "1199739701": {
+            "nombre": "pablo",
+            "apellido": "esparza",
+            "telefono": "3175675424",
+            "direccion": "calle 3 con 15",
+            "acudiente": "raquel ramirez",
+            "estado": "Inscrito",
+            "resultado pruebas": 90.0,
+            "Estado": "aprobado"
         }
-
-
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

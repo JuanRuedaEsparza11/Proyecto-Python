@@ -44,6 +44,7 @@ elif cargo == 3:
 
 
 
-guardar_datos(datos_inscritos, ruta_inscritos)
 
+guardar_datos(datos_inscritos, ruta_inscritos)
+guardar_datos(datos_aprobados, ruta_aprobados)
 
