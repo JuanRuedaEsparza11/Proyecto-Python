@@ -7,7 +7,7 @@
             "direccion": "calle 3",
             "acudiente": "Olga Ramirez",
             "resultado pruebas": 60.0,
-            "estado": ""
+            "Estado": "Expulsado"
         },
         "1097770501": {
             "nombre": "maluma ",
@@ -26,6 +26,16 @@
             "acudiente": "raquel ramirez",
             "estado": "Inscrito",
             "resultado pruebas": 90.0,
+            "Estado": "aprobado"
+        },
+        "119873": {
+            "nombre": "pepo",
+            "apellido": "pepe",
+            "telefono": "3165478923",
+            "direccion": "calle 24",
+            "acudiente": "raquel",
+            "estado": "Inscrito",
+            "resultado pruebas": 95.0,
             "Estado": "aprobado"
         }
     }

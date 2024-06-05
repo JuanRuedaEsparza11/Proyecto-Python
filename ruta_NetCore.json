@@ -1,0 +1,26 @@
+{
+    "NetCore": {
+    "trainers": {
+        "Felipe Pelaez": {
+            "U3": {
+                "campers": {
+                    "119874": {
+                        "nombre": "pepa",
+                        "apellido": "pepi",
+                        "telefono": "3166478923",
+                        "direccion": "calle 25",
+                        "acudiente": "raquela"
+                    },
+                    "119875": {
+                        "nombre": "pepe",
+                        "apellido": "pepa",
+                        "telefono": "3165478924",
+                        "direccion": "calle 26",
+                        "acudiente": "raqueli"
+                    }
+                }
+            }
+        }
+    }
+}
+}

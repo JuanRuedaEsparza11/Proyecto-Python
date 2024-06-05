@@ -32,5 +32,22 @@
         "acudiente": "raquel ramirez",
         "estado": "Inscrito",
         "resultado pruebas": 90.0
+    },
+    "119873": {
+        "nombre": "pepo",
+        "apellido": "pepe",
+        "telefono": "3165478923",
+        "direccion": "calle 24",
+        "acudiente": "raquel",
+        "estado": "Inscrito",
+        "resultado pruebas": 95.0
+    },
+    "5": {
+        "nombre": "po",
+        "apellido": "el guerrero dragon",
+        "telefono": "3185675424",
+        "direccion": "china",
+        "acudiente": "un pato",
+        "estado": "Inscrito"
     }
 }
