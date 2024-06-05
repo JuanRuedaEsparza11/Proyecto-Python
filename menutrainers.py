@@ -16,6 +16,9 @@ def trainer(datos_trainers):
         print("3. Asignar notas a campers")
         elecc_train = input("")
 
+        if elecc_train == 3:
+            doc = input()
+
         # Agrega aquí tu lógica para las opciones del trainer
         
     except Exception as e:
