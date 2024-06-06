@@ -5,7 +5,8 @@ from menucamper import *
 
 
 ruta_node = "ruta_node.json"
-
+ruta_java = "ruta_Java.json"
+ruta_net = "ruta_NetCore"
 ruta_inscritos = "inscritos.json"
 ruta_aprobados = "aprobados.json"
 ruta_trainers = "rutas.json"

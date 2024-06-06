@@ -57,8 +57,8 @@ def coordinador(datos_inscritos, datos_aprobados):
                 print("2. Node.js")
                 print("3. NetCore")
                 opc = int(input("A que ruta deseas agregar el estudiante?"))
-
                 ruta = None
+                
                 if opc == 1:
                     ruta = "Java"
                     datos_java["Java"]["trainers"][doc_trainer]["M1"]["campers"] = estudiante
